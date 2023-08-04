@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroldcalixto&color=purple" alt="Profile Views:" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroldcalixto&color=blue" alt="Profile Views:" /> </p>
 
 ###
 
