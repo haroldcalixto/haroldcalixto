@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroldcalixto&color=royalblue" alt="Profile Views:" /> </p>
+
+###
+
 <h3 align="left">ℹ️ About Me:</h3>
 
 ###
