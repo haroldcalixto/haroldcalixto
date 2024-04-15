@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">• I'm a Computer Engineering student at the Federal University of Ceará. 📚<br><br>• I'm a Vice President at "Loading Development Jr". 🌐<br><br>• I'm currently studying Front-End Web Development and UX/UI Design. 💻<br><br>• I really believe in the potential and development of people. 🧠<br><br>• In my free time, I like to learn about new technologies and play games with friends. 👾</p>
+<p align="left">• I'm a Computer Engineering student at the Federal University of Ceará. 📚<br><br>• I'm a  President at "Loading Development Jr". 🌐<br><br>• I'm currently studying Front-End Web Development and UX/UI Design. 💻<br><br>• I really believe in the potential and development of people. 🧠<br><br>• In my free time, I like to learn about new technologies and play games with friends. 👾</p>
 
 ###
 
